@@ -1,2 +1,2 @@
 # Altium-Designer
-My Altium PCB Designins
+My Altium PCB Designings
